@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 12 16:43:35 2025
-
-@author: mtn309
-"""
+# Simulation of sesonal changes of microbiome using Dirichlet sampling
 
 import numpy as np
 import matplotlib.pyplot as plt
